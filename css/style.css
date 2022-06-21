@@ -1,0 +1,121 @@
+:root{
+ --f7-theme-color:#0071A2;
+ --f7-navbar-bg-color: #8dcecd; /*navbar*/
+ --f7-navbar-link-color:#fff;
+ --f7-navbar-text-color:#fff;
+ --f7-bars-bg-color:#202046;/*toolbar*/
+ --f7-block-margin-vertical:20px;
+ --f7-card-footer-border-color:transparent; 
+}
+
+#info-panel{
+	background-color: #f4e0e0;
+	color: #fff;
+	padding: 30px 30px;
+}
+
+.perfil{
+	font-size: 150px;
+	color: #8dcecd;
+	padding: 50px 50px;
+	padding-left: 100px;
+	padding-right: 100px;
+}
+
+.perfil-text{
+	color: #8dcecd;
+	text-align: center;
+}
+
+.perfil-text h1{
+	font-size: 25px;
+	font-weight: 800;
+}
+
+.perfil-text h3{
+	font-size: 15px;
+}
+.panel i{
+	color: #8dcecd;
+}
+.panel .list{
+	font-size: 14px;
+}
+
+#modal-login .page{
+	background-color: #f4e0e0;
+	padding: 15px;
+}
+
+#modal-login .page-content{
+	border-radius: 15px;
+}
+
+.img-fluid{
+	max-width: 100%;
+	display: block;
+}
+
+#checkout .card-content{
+	padding: 10px 5px;
+}
+
+#checkout .titulo{
+	font-weight: 600;
+	font-size: 16px;
+}
+#checkout .precio{
+	font-weight: 400;
+	font-size: 16px;
+}
+
+.page-content .block-title{
+	color: #8dcecd;
+	text-align: center;
+	font-size: 20px;
+	padding: 20px 20px;
+}
+
+.button-fill{
+	background-color: #4f6364;
+	outline-color: #4f6364;
+}
+
+.title h1{
+	font-size: 30px;
+	text-align: center;
+	color: #8dcecd;
+}
+
+.title h3{
+	text-align: center;
+	color: #4f6364;
+	padding: 10px;
+}
+
+.title p{
+	text-align: center;
+	color: #4f6364;
+	padding: 10px;
+}
+
+.button-outline{
+	color: #4f6364;
+}
+
+.button-loading{
+	color: #4f6364;
+}
+
+.card span{
+	padding: 20px 20px;
+	color: #4f6364;
+}
+
+#info-panel{
+	background-image: #4f6364;
+}
+
+.more{
+	padding: 5px 5px;
+}
